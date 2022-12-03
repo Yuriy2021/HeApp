@@ -1,7 +1,12 @@
-PS D:\NodeJS\Repo\HeApp> node app.js
+
+Search
 Array: 0.187ms
 Set: 0.006ms  
+
+Add_element
 Array: 0.003ms
 Set: 0.004ms
+
+Delete_element
 Array: 0.999ms
 Set: 0.021ms
