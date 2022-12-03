@@ -1,0 +1,11 @@
+Search
+Array: 0.041015625 ms
+Set: 0.0029296875 ms
+
+Add_element
+Array: 0.0009765625 ms
+Set: 0.0009765625 ms
+
+Delete_element
+Array: 0.2978515625 ms
+Set: 0.002197265625 ms
